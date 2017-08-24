@@ -1,0 +1,27 @@
+{
+  "name": "node_freesms",
+  "version": "1.0.0",
+  "description": "Envoyez-vous un texto via votre compte Free",
+  "main": "sms.js",
+  "scripts": {
+    "test": "nodejs test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/3tron/node_freesms.git"
+  },
+  "keywords": [
+    "free",
+    "sms"
+  ],
+  "author": "Jean-Philippe Ruijs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/3tron/node_freesms/issues"
+  },
+  "homepage": "https://gitlab.com/3tron/node_freesms#README",
+  "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
